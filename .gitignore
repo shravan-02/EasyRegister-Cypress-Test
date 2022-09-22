@@ -1,6 +1,7 @@
 # Logs
 logs
 *.log
+.DS_store
 node_modules
 /cypress/downloads
 /cypress/e2e
